@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/KrishRathor/ecom-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/KrishRathor/com_server.git
